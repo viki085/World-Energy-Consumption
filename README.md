@@ -6,6 +6,8 @@ The data required was obtained from the github repository of ourworldindata.
 Site Link: https://ourworldindata.org/
 Github: https://github.com/owid/energy-data
 
+Countries by COntinents Mapping Data : https://statisticstimes.com/geography/countries-by-continents.php
+
 The final excel workbook WorldEnergyData_preprocessed1 was created using the other files by using PowerQuery to perform extract & transfromation Operations.
 
 You can viwe the Data Visualization on Tableau Public:
