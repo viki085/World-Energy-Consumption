@@ -12,5 +12,5 @@ The final excel workbook WorldEnergyData_preprocessed1 was created using the oth
 
 You can viwe the Data Visualization on Tableau Public:
 
-https://public.tableau.com/app/profile/vikram.karthikeyan/viz/WorldEnergyConsumption_16675757929450/Dashboard2
+https://public.tableau.com/app/profile/vikram.karthikeyan/viz/WorldEnergyConsumption_16675757929450/Dashboard
  
