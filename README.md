@@ -10,7 +10,7 @@ Countries by COntinents Mapping Data : https://statisticstimes.com/geography/cou
 
 The final excel workbook WorldEnergyData_preprocessed1 was created using the other files by using PowerQuery to perform extract & transfromation Operations.
 
-You can viwe the Data Visualization on Tableau Public:
+You can view the Data Visualization on Tableau Public:
 
 https://public.tableau.com/app/profile/vikram.karthikeyan/viz/WorldEnergyConsumption_16675757929450/Dashboard
  
